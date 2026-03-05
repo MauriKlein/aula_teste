@@ -1,1 +1,2 @@
-# aula_teste
+Esta é a nossa primeira alteração no projeto do git.
+
